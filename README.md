@@ -303,17 +303,11 @@ Trong tương lai, hệ thống có thể được mở rộng thêm:
 
 ## 14. Tác giả
 
-Nhóm sinh viên thực hiện:
+Sinh viên thực hiện:
 
 ```text
-23021771 - Lê Đức Bình
-23021859 - Nguyễn Công Lộc
-23021913 - Yên Mạnh Tùng
-23021890 - Hoàng Minh Quân
+Lê Đức Bình
 ```
-
-Khoa Điện tử - Viễn thông
-Trường Đại học Công nghệ
 
 ## 15. Tài liệu tham khảo
 

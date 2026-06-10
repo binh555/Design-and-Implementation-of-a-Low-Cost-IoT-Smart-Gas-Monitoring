@@ -284,24 +284,7 @@ Trong tương lai, hệ thống có thể được mở rộng thêm:
 * Mở rộng mô hình bù cho nhiều vùng AH hơn.
 * Thiết kế PCB để hệ thống gọn và ổn định hơn.
 
-## 13. Cấu trúc repo đề xuất
-
-```text
-.
-├── code/
-│   └── mq2_dht22_humidity_compensation.ino
-├── data/
-│   └── experimental_log.txt
-├── figures/
-│   ├── block_diagram.png
-│   ├── real_system.png
-│   └── result_plot.png
-├── report/
-│   └── IoT_report.pdf
-└── README.md
-```
-
-## 14. Tác giả
+## 13. Tác giả
 
 Sinh viên thực hiện:
 
@@ -309,7 +292,7 @@ Sinh viên thực hiện:
 Lê Đức Bình
 ```
 
-## 15. Tài liệu tham khảo
+## 14. Tài liệu tham khảo
 
 * Hanwei Electronics, MQ-2 Semiconductor Sensor for Combustible Gas Datasheet.
 * Aosong Electronics, DHT22/AM2302 Digital Temperature and Humidity Sensor Datasheet.
